@@ -1,0 +1,25 @@
+.add-color {
+  margin: 0;
+  font-weight:  bold;
+}
+
+.restart-color {
+  animation-name: remove-color;
+  animation-duration: 2s;
+}
+
+@keyframes remove-color {
+  0% {
+    opacity: 0;
+    font-weight: normal;
+  }
+  25% {
+    opacity: 0.5;
+  }
+  50% {
+    opacity: 0.75;
+  }
+  100% {
+    opacity: 1;
+  }
+}

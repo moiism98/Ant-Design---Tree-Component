@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  padding: 15vh;
+}
+
+.node-icons {
+  padding: 0.5px;
+}
+
+.hide {
+  display: none;
+}
