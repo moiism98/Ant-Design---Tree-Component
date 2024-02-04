@@ -1,5 +1,7 @@
 # Descripción / Description
 
+React, TypeScript, Ant Design (PRO)
+
 Pequeño proyecto realizado en la FCT. 
 
 El objetivo era modificar el [comportamiento del árbol](https://ant.design/components/tree) de manera que se pudiera crear y eliminar (con opción de eliminar en cascada en caso de tener nodos hijos) nodos, editar sus nombres y desplazarlos libremente entre otros nodos del árbol. (drag and drop)
